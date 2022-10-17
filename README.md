@@ -1,0 +1,2 @@
+# wsa
+install wsa magisk
